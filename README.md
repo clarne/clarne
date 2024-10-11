@@ -1,6 +1,1 @@
 - 👋 Hi, I’m @clarne
-- 👀 I’m interested in biology & physics.
-- 🌱 I’m currently learning biotechnology & python.
-- 💞️ I’m looking to collaborate on idk.
-- 📫 How to reach me here, i guess...
-- 😄 Pronouns: she/her
